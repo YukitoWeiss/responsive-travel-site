@@ -23,7 +23,7 @@ module.exports = {
     hot: true,
     open: true,
     port: 3000,
-    host: "192.168.1.103",
+    host: "localhost",
   },
   mode: "development",
   module: {
